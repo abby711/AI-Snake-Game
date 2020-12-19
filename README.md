@@ -7,5 +7,14 @@ A score and the snake length are increased whenever the snake is moved through i
 The game includes three path-searching-algorithm demos and one version of AI to play Snake automatically using Reinforcement Learning.
 Implemented using both Greedy Algorithm and Hamiltonian cycle.
 
+## OUTPUTS USING BOTH THE PATH SOLVERS ARE AS FOLLOWS:
+Greedy Algorithm
+
+![greedy](https://user-images.githubusercontent.com/65455645/102690809-0c773580-422e-11eb-9182-55c4556f90fb.gif)
+
+Hamiltonian Cycle
+
+![hamilton](https://user-images.githubusercontent.com/65455645/102690815-100abc80-422e-11eb-9b92-1e045370941e.gif)
+
 
 
